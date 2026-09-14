@@ -1,0 +1,28 @@
+Почему?
+
+
+Почему стартовый шаблон называется Лапки Сюзанны?
+
+Изначально стартер был назван Сюзанна.
+Автор стартера Coder7-dev занимается помощью бездомным животным. При создании этого проекта потребовалась большая фотография, чтобы проверить работу стартового шаблона. Поскольку Coder7-dev делает посты на пристройство животных в Viber и создал канал для этого, а также является администратором с десятка групп помощи животным, фотография была под рукой. Фотография Сюзанны.
+
+Рассматривались варианты названия стартера с использование слов GULP, CAT и STARTER, которые бы помогли SEO-продвижению этого проекта (кстати, SEO - одно из хобби автора), но Coder7-dev решил остановиться на PAWS. Почему? Потому что этот стартовый шаблон сделает за вас всю грязную работу!
+
+В настоящее время автор Лапок Сюзанны уже на протяжении двух лет безуспешно ищет работу html-верстальщиком или младшим frontend-разработчиком.
+Coder7-dev рассмотрит любые варианты сотрудничества и вышлет своё портфолио по запросу. 
+
+
+***
+
+
+Why?
+
+
+Why is the starter template called Suzanna Paws?
+
+Initially, the starter was simply named Suzanna. The creator of the starter, Coder7-dev, is actively involved in helping homeless animals. While developing this project, a large image was needed to test how the starter template handles assets. Since Coder7-dev posts adoption appeals on Viber, runs a dedicated channel for this cause, and administrates about a dozen animal rescue groups, a suitable photo was readily available. It was a picture of Suzanna.
+
+Naming options using the words GULP, CAT, and STARTER were considered to boost the project’s SEO (by the way, SEO is one of the author’s hobbies), but Coder7-dev decided to go with PAWS. Why? Because this starter template will do all the dirty work for you!
+
+Currently, the creator of Suzanna Paws has been looking for a position as an HTML/CSS Developer or Junior Frontend Developer for the past two years. Coder7-dev is open to any freelance or full-time collaboration opportunities and will gladly provide a portfolio upon request.
+

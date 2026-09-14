@@ -1,0 +1,31 @@
+@mixin font($font_name, $file_name, $weight, $style) {
+    @font-face {
+        font-family: $font_name;
+        font-display: swap;
+        src: url("../fonts/#{$file_name}.woff") format("woff"), url("../fonts/#{$file_name}.woff2") format("woff2");
+        font-weight: #{$weight};
+        font-style: #{$style};
+    }
+}
+
+@import "fonts";
+
+.header-icon {
+    display: inline-block;
+    width: 76px;  
+    height: 76px;
+    fill: #000 !important;
+}
+
+.header-icon svg,
+.header-icon symbol,
+.header-icon path {
+    width: 100%;
+    height: 100%;
+}
+
+.header-icon path,
+.header-icon polygon,
+.header-icon rect {
+    fill: #000 !important; 
+}
