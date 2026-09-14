@@ -180,9 +180,7 @@
 
 
 
-[![Telegram](https://shields.io)](https://t.me/Coder7_dev)
-
-[![GitHub](https://shields.io)](https://github.com/Coder7-dev)
+[![Telegram](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Coder7_dev) [![GitHub](https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Coder7-dev)
 
 
 
@@ -378,6 +376,4 @@ If the browser opens with a `Cannot GET /` message, simply refresh the page.
 
 
 
-[![Telegram](https://shields.io)](https://t.me/Coder7_dev)
-
-[![GitHub](https://shields.io)](https://github.com/Coder7-dev)
+[![Telegram](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Coder7_dev) [![GitHub](https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Coder7-dev)
